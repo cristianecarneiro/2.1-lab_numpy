@@ -28,7 +28,6 @@
 
 
 
-
 #8. Are you able to add a and b? Why or why not?
 
 
@@ -42,7 +41,6 @@
 
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
-
 
 
 
